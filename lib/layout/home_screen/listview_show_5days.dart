@@ -48,7 +48,7 @@ class MyList extends StatelessWidget {
                           .copyWith(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
-                        color: Colors.black45,
+                        color: Colors.white,
                         fontFamily: 'flutterfonts',
                       ),
                     ),
@@ -62,7 +62,7 @@ class MyList extends StatelessWidget {
                           .copyWith(
                         fontSize: 18,
                         fontWeight: FontWeight.bold,
-                        color: Colors.black45,
+                        color: Colors.white,
                         fontFamily: 'flutterfonts',
                       ),
                     ),
@@ -80,7 +80,7 @@ class MyList extends StatelessWidget {
                           .textTheme
                           .caption!
                           .copyWith(
-                        color: Colors.black45,
+                        color: Colors.white,
                         fontFamily: 'flutterfonts',
                         fontSize: 14,
                       ),
