@@ -1,5 +1,5 @@
 # weather_app
-
+Weather App With GetX
 A new Flutter project.
 
 ![Screenshot_2023-07-21-14-57-49-47](https://github.com/fadyZaherEng/Weather_App/assets/60519197/cbbd01eb-1162-420e-987a-eb896784e21c)
